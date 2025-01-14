@@ -81,7 +81,7 @@ router.get("/", async (req, res) => {
               ""
             );
 
-            const sid = `*VK [The powerful WA BOT]*\n\n👉 HY HOW ARE YOU USER I AM VK BOT*`;
+            const sid = `*VK [The powerful WA BOT]*\n\n👉 HY AMA  YOU USE VK BOT*`;
             const mg = `🛑 *Do not share this code to anyone* 🛑`;
             const dt = await RobinPairWeb.sendMessage(user_jid, {
               image: {
